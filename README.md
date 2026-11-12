@@ -1,8 +1,10 @@
 # student-dataset
 
-**Name:* Asiah Nosa
-**Matric No:* 23/13410
-**Course:* CUL-CYB 371 - Data Mining and Data Warehousing (Assignment Two)
+**Name:** Asiah Nosa
+
+**Matric No:** 23/13410
+
+**Course:** CUL-CYB 371 - Data Mining and Data Warehousing (Assignment Two)
 
 ## About
 This is a fictional student dataset I created for data mining practice. The records are made up and do not describe real students.
