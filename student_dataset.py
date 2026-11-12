@@ -6,7 +6,7 @@
 import csv
 import random
 
-departments = ["Computer Science", "Cyber Security", "Software Engineering"]
+departments = ["Computer Science", "Cyber Security", "Software Engineering", "Data Science", "Information Technology"]
 levels = [100, 200, 300, 400]
 
 students = []
